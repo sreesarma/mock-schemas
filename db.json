@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "mySales": [
     {
-      "id": 1,
-      "title": "hello"
+      "associatePin": 800101,
+      "associatePin": "801001",
+      "totalSales": 0,
+      "totalReturns": 0,
+      "preSales": 0,
+      "netSales": 0,
+      "ipt": 0,
+      "ads": 0
     }
   ],
   "profile": {
