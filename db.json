@@ -1,7 +1,7 @@
 {
   "mySales": [
     {
-      "associatePin": 800101,
+      "id": 800101,
       "associatePin": "801001",
       "totalSales": 0,
       "totalReturns": 0,
